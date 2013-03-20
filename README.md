@@ -1,4 +1,4 @@
-SlideShareHandsFree
+SlideShare HandsFree
 ===================
 
-SlideShare HandsFree - Use SlideShare with gestures
+SlideShare HandsFree - Use SlideShare with gestures.
